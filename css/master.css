@@ -405,7 +405,7 @@
     transition-duration: var(--main-duration);
   }
   .about .about-content .image img:hover {
-    transform: scale(1.25);
+    transform: scale(1.2);
   }
 
   .about .about-content .text {
